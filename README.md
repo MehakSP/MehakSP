@@ -1,5 +1,16 @@
 - 👋 Hi, I’m @MehakSP
-- 👀 I’m interested in developing and learning. 
+- 👀 I’m interested in developing and learning.
+-  My tech stack:
+   C
+   C++
+   Java
+   Python 
+   DSA
+   AI
+   Html
+   CSS
+   C#
+   ML
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: mehak.21gcebcs147@galgotiacollege.edu 
